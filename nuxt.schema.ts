@@ -3,12 +3,12 @@ import { NuxtAwesomeAppConfig } from './app.config'
 export default defineNuxtSchema({
   appConfig: {
     awesome: {
-      name: 'Nuxt 3 Awesome Starter',
+      name: 'Statzy-P22',
       description:
-        'a starter template for Nuxt 3 with minimalist themes design, built in components, drawer & menus, and more.',
+        'Statzy is a web application that allows you to monitor your website statistics and analytics in real-time using Vue.js, Nuxt.js, TailwindCSS, and Firebase.',
       project: {
         links: {
-          github: 'https://github.com/viandwi24/nuxt3-awesome-starter',
+          github: 'https://github.com/ZIT-P22/statzy',
         },
       },
       layout: {
@@ -21,16 +21,16 @@ export default defineNuxtSchema({
           year: 2023,
         },
         welcome: {
-          title: 'Nuxt&nbsp;3 Awesome Starter',
+          title: 'Statzy-P22',
           disableInfoReplaceIndexInWelcomePage: true,
         },
       },
       author: {
-        name: 'viandwi24',
+        name: 'P-22',
         links: {
-          github: 'https://github.com/viandwi24',
-          medium: 'https://viandwi24.medium.com',
-          website: 'https://viandwi24.site',
+          github: 'https://github.com/ZIT-P22',
+          medium: '',
+          website: '',
         },
       },
     } as NuxtAwesomeAppConfig,

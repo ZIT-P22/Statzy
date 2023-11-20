@@ -77,12 +77,12 @@ declare module '@nuxt/schema' {
 
 export default defineAppConfig({
   awesome: {
-    name: 'Nuxt 3 Awesome Starter',
+    name: 'Statzy-P22',
     description:
-      'a starter template for Nuxt 3 with minimalist themes design, built in components, drawer & menus, and more.',
+      'Statzy-P22 is a web application that provides a dashboard for the user to view their statistics. The application is built using Nuxt.js and Tailwind CSS',
     project: {
       links: {
-        github: 'https://github.com/viandwi24/nuxt3-awesome-starter',
+        github: 'https://github.com/ZIT-P22/statzy',
       },
     },
     layout: {
@@ -95,7 +95,7 @@ export default defineAppConfig({
         year: new Date().getFullYear(),
       },
       welcome: {
-        title: 'Nuxt&nbsp;3 Awesome Starter',
+        title: 'Statzy-P22',
         disableInfoReplaceIndexInWelcomePage: true,
         primaryActionButton: {
           title: 'Nuxt 3',
@@ -108,11 +108,10 @@ export default defineAppConfig({
       },
     },
     author: {
-      name: 'viandwi24',
+      name: 'P-22',
       links: {
-        github: 'https://github.com/viandwi24',
-        medium: 'https://viandwi24.medium.com',
-        website: 'https://viandwi24.site',
+        github: 'https://github.com/ZIT-P22',
+        website: 'https://zitau.de',
       },
     },
     disableInfoReplaceIndexInWelcomePage: false,

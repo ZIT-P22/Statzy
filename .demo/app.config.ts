@@ -1,15 +1,15 @@
 // see all availabe configs here: https://github.com/viandwi24/nuxt3-awesome-starter/blob/v2/app.config.ts
 export default defineAppConfig({
   awesome: {
-    name: 'Nuxt 3 Awesome Starter Demo',
+    name: 'Statzy-P22',
     description:
-      'a demo from starter template for Nuxt 3 with minimalist themes design, built in components, drawer & menus, and more.',
+      'Statzy-P22 is a web application that provides a dashboard for the user to view their statistics. The application is built using Nuxt.js and Tailwind CSS',
     author: {
-      name: 'viandwi24',
+      name: 'P-22',
       links: {
-        github: 'https://github.com/viandwi24',
-        medium: 'https://viandwi24.medium.com',
-        website: 'https://viandwi24.site',
+        github: 'https://github.com/ZIT-P22',
+        medium: '',
+        website: '',
       },
     },
     layout: {
@@ -23,7 +23,7 @@ export default defineAppConfig({
     },
     project: {
       links: {
-        github: 'https://github.com/viandwi24/nuxt3-awesome-starter',
+        github: 'https://github.com/ZIT-P22/statzy',
       },
     },
   },
